@@ -1,9 +1,1 @@
-{
-  "schema": 1,
-  "versionCode": 7,
-  "versionName": "0.4.2",
-  "sizeBytes": 55756,
-  "sha256": "07f3cd754bd078cd8612cec8292c175552c85966a2b24cba7f47c5b7828a4052",
-  "apkUrl": "https://github.com/MortenFlecks/family-frame-updates/releases/download/v0.4.2/FamilyFrame-0.4.2.apk",
-  "releaseNotes": "Fixes Android update installation. Adds daily app update checks and user-confirmed installation from GitHub. Preserves saved albums, settings and cached photos."
-}
+{"schema":1,"status":"paused","reason":"Google Play Protect blocked the test installer. No verified update is available. Do not bypass the warning."}
