@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "versionCode": 6,
+  "versionName": "0.4.1",
+  "sizeBytes": 55768,
+  "sha256": "ec8161c1d0f18d73d96b600916156cf7ce3823ac61c516ab252ee4d46d1927b3",
+  "apkUrl": "https://github.com/MortenFlecks/family-frame-updates/releases/download/v0.4.1/FamilyFrame-0.4.1.apk",
+  "releaseNotes": "In-app update checks and Android-confirmed installation. Keeps saved albums, settings and cached photos during updates. Fixes stale status messages when retrying an update."
+}
