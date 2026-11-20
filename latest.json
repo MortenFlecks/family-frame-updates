@@ -1,1 +1,9 @@
-{"schema":1,"status":"paused","reason":"Google Play Protect blocked the test installer. No verified update is available. Do not bypass the warning."}
+{
+  "schema": 1,
+  "versionCode": 8,
+  "versionName": "0.4.3",
+  "sizeBytes": 51488,
+  "sha256": "29c36ea84d1efdb2ecf7bbca917ed8719b17131df5608b3ce79f73de7e54abd8",
+  "apkUrl": "https://github.com/MortenFlecks/family-frame-updates/releases/download/v0.4.3/FamilyFrame-0.4.3.apk",
+  "releaseNotes": "Updates now open GitHub in your browser. Download the APK there, open it and confirm Update in Android. Preserves your albums, settings and saved photos. Removes the frame app installation permission and handles paused updates safely."
+}
