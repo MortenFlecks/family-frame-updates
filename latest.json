@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 8,
-  "versionName": "0.4.3",
-  "sizeBytes": 51488,
-  "sha256": "29c36ea84d1efdb2ecf7bbca917ed8719b17131df5608b3ce79f73de7e54abd8",
-  "apkUrl": "https://github.com/MortenFlecks/family-frame-updates/releases/download/v0.4.3/FamilyFrame-0.4.3.apk",
-  "releaseNotes": "Updates now open GitHub in your browser. Download the APK there, open it and confirm Update in Android. Preserves your albums, settings and saved photos. Removes the frame app installation permission and handles paused updates safely."
+  "versionCode": 10,
+  "versionName": "0.6.0",
+  "sizeBytes": 61564,
+  "sha256": "ab116ebb3df0e4807b3949ddb7373f74060e780916ed5747b30f49698446b9f4",
+  "apkUrl": "https://github.com/MortenFlecks/family-frame-updates/releases/download/v0.6.0/FamilyFrame-0.6.0.apk",
+  "releaseNotes": "Round video Play button, numeric preview countdown, brief offline video replay cache, and a touch media-volume slider. Saved albums and settings are retained."
 }
