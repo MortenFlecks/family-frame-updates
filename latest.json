@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 10,
-  "versionName": "0.6.0",
-  "sizeBytes": 61564,
-  "sha256": "ab116ebb3df0e4807b3949ddb7373f74060e780916ed5747b30f49698446b9f4",
-  "apkUrl": "https://github.com/MortenFlecks/family-frame-updates/releases/download/v0.6.0/FamilyFrame-0.6.0.apk",
-  "releaseNotes": "Round video Play button, numeric preview countdown, brief offline video replay cache, and a touch media-volume slider. Saved albums and settings are retained."
+  "versionCode": 11,
+  "versionName": "0.7.0",
+  "sizeBytes": 65164,
+  "sha256": "cadf301ac7b1aa56bb398d25180ce445ee2e818919dcd4da2e882246545d88ec",
+  "apkUrl": "https://github.com/MortenFlecks/family-frame-updates/releases/download/v0.7.0/FamilyFrame-0.7.0.apk",
+  "releaseNotes": "New-media notification with a tap-to-view priority pass, plus elapsed / total seconds during video playback. Existing albums and settings are retained."
 }
